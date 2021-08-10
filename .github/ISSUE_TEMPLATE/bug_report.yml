@@ -158,6 +158,7 @@ body:
       - AWS::DocDB::DBClusterParameterGroup
       - AWS::DocDB::DBInstance
       - AWS::DocDB::DBSubnetGroup
+      - AWS::Dummy::Dummy
       - AWS::EC2::CapacityReservation
       - AWS::EC2::ClientVpnAuthorizationRule
       - AWS::EC2::ClientVpnEndpoint
